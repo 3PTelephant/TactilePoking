@@ -40,5 +40,5 @@ If you use our [rendering code](https://github.com/3PTelephant/TransparentObject
   year={2022},
   publisher={IEEE}
 }
-}
+
 ```
