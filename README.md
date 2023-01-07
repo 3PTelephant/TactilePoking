@@ -3,7 +3,7 @@ Repository for our T-Mech paper ["Where shall I touch? Vision-Guided Tactile Pok
 
 
 ## Installation
-This code is tested with Ubuntu 20.04, Python3.7 and Pytorch 1.8.1, and CUDA 11.0.
+This code is tested with Ubuntu 20.04, Python3.7 and Pytorch 1.10.1, and CUDA 11.4.
 
 Driver for [Intel RealSense](https://github.com/kevindehecker/librealsense).  
 
@@ -26,7 +26,7 @@ Driver for [Robotiq Gripper](https://github.com/ros-industrial/robotiq/pull/184)
 python3 contact_trigger.py
 python3 grasp_node_network.py
 ```
-Pretrained model can be found [here]().
+Pretrained model can be found [here](https://drive.google.com/file/d/1YlhNIpT7OAWClg34quu3Uv2Gk48IZYqz/view?usp=share_link).
 
 If you want to know more details, you can visit our [website](https://sites.google.com/view/tactilepoking) or send email to me (jiaqi.1.jiang@kcl.ac.uk).
 
